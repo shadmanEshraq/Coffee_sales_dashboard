@@ -40,7 +40,7 @@ A Coffee bean seller has sales data for the last four years. It sells four types
 ![Add Image](/Images/Coffee_dashboard_screenshot.PNG)  
 
 
-The live dashboard is [here](https://www.novypro.com/project/bike-sales-dashboard-6)
+The live dashboard is [here](https://www.novypro.com/project/☕-coffee-sales-dashboard)
 
 ### 🔥 Skills Acquired:
 
